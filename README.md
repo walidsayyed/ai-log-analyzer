@@ -1,5 +1,7 @@
 # AI Log Anomaly Detection System
 
+![AI Log Anomaly Detection Output](anomaly-output.png)
+
 An intelligent monitoring system that uses Machine Learning to automatically detect abnormal patterns in system logs.
 
 This project demonstrates how AI can be applied to real-world cloud infrastructure monitoring to identify rare and unexpected behavior without labeled training data.
