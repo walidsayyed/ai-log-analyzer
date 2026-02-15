@@ -1,8 +1,9 @@
-# AI Log Anomaly Detector
+# AI Log Anomaly Detection System
 
-This project uses Machine Learning to automatically detect abnormal behavior in system logs such as CPU spikes, unusual request patterns, and high error counts.
+An intelligent monitoring system that uses Machine Learning to automatically detect abnormal patterns in system logs.
 
-It simulates how modern cloud monitoring systems use AI to identify anomalies in production environments.
+This project demonstrates how AI can be applied to real-world cloud infrastructure monitoring to identify rare and unexpected behavior without labeled training data.
+
 
 ---
 
@@ -56,7 +57,6 @@ It is efficient for detecting rare and abnormal patterns in high-dimensional dat
 
 
 ---
-
 ## 🎯 Use Cases
 
 - Server Monitoring
@@ -66,7 +66,6 @@ It is efficient for detecting rare and abnormal patterns in high-dimensional dat
 - DevOps monitoring systems
 
 ---
-
 Built as part of my AI & Cloud Engineering portfolio.
 
 
